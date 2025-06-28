@@ -174,5 +174,18 @@
       </section>
 
     </div>
+
+    <footer class="bg-blue-50 text-center py-4 mt-8 rounded-xl shadow-inner">
+  <p class="text-gray-800 text-sm">
+    📄 Want to see the original document? 
+    <a href="https://1drv.ms/w/c/4cfbde3460c1c431/IQTs-GSatTW_TakjcdkVibQEAUZnjCl5T68ZSzjPXQ9N0Jc?em=2"
+       target="_blank"
+       class="text-blue-600 font-semibold underline hover:text-blue-800">
+      Browse My Original Resume
+    </a>
+  </p>
+</footer>
+
   </body>
 </html>
+
